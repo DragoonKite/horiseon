@@ -98,6 +98,7 @@ p {
 .benefits {
     margin-right: 20px;
     padding: 20px;
+    min-width: 140px;
     clear: both;
     float: right;
     width: 20%;
